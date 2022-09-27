@@ -1,0 +1,3 @@
+The advantage of this way of executing programs is the complete independence of the bytecode from the operating system and hardware, which allows you to run Java applications on any device for which there is a corresponding 
+virtual machine. Another important feature of Java technology is a flexible security system, in which the execution of the program is completely controlled by the virtual machine. Any operation that exceeds the program's 
+set permissions (for example, attempting unauthorized access to data or connecting to another computer) causes an immediate abort.
